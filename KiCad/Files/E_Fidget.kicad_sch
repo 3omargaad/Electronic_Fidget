@@ -1472,7 +1472,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 163.322 72.39 90)
 			(effects
 				(font
@@ -1698,7 +1698,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 176.022 72.39 90)
 			(effects
 				(font
@@ -1726,10 +1726,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9b2660b6-a2ee-4ea7-a14c-0897481320aa")
+			(uuid "9b2660b6-a2ee-4ea7-a14c-0897481320ab")
 		)
 		(pin "2"
-			(uuid "c4078898-5ef3-4428-acd1-3241ae175ea8")
+			(uuid "c4078898-5ef3-4428-acd1-3241ae175ea9")
 		)
 		(instances
 			(project ""
@@ -1768,7 +1768,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 201.422 72.39 90)
 			(effects
 				(font
@@ -1908,7 +1908,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P15.24mm_Horizontal"
 			(at 188.722 72.39 90)
 			(effects
 				(font
@@ -1936,10 +1936,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "9b2660b6-a2ee-4ea7-a14c-0897481320aa")
+			(uuid "9b2660b6-a2ee-4ea7-a14c-0897481320ac")
 		)
 		(pin "2"
-			(uuid "c4078898-5ef3-4428-acd1-3241ae175ea8")
+			(uuid "c4078898-5ef3-4428-acd1-3241ae175eaa")
 		)
 		(instances
 			(project ""
@@ -2101,10 +2101,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "1935d049-7cfa-4916-a4f6-6ce6b7f2d197")
+			(uuid "1935d049-7cfa-4916-a4f6-6ce6b7f2d198")
 		)
 		(pin "2"
-			(uuid "0889c25c-ec4f-47c1-98f5-d568439b7c62")
+			(uuid "0889c25c-ec4f-47c1-98f5-d568439b7c63")
 		)
 		(instances
 			(project ""
@@ -2180,10 +2180,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "979d112f-0c09-4dc5-99d3-9114f3e2f138")
+			(uuid "979d112f-0c09-4dc5-99d3-9114f3e2f139")
 		)
 		(pin "2"
-			(uuid "3b35cd40-3418-4483-9d2f-70280b29d0a1")
+			(uuid "3b35cd40-3418-4483-9d2f-70280b29d0a2")
 		)
 		(instances
 			(project ""
@@ -2250,10 +2250,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2b38e239-36fd-4c96-ab2c-3636d5fbc99e")
+			(uuid "2b38e239-36fd-4c96-ab2c-3636d5fbc99f")
 		)
 		(pin "1"
-			(uuid "7048d8de-04ef-4f3e-b9a8-4f0b5b32d0c6")
+			(uuid "7048d8de-04ef-4f3e-b9a8-4f0b5b32d0c7")
 		)
 		(instances
 			(project ""
@@ -2329,10 +2329,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "979d112f-0c09-4dc5-99d3-9114f3e2f138")
+			(uuid "979d112f-0c09-4dc5-99d3-9114f3e2f13a")
 		)
 		(pin "2"
-			(uuid "3b35cd40-3418-4483-9d2f-70280b29d0a1")
+			(uuid "3b35cd40-3418-4483-9d2f-70280b29d0a3")
 		)
 		(instances
 			(project ""
@@ -2539,10 +2539,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2b38e239-36fd-4c96-ab2c-3636d5fbc99e")
+			(uuid "2b38e239-36fd-4c96-ab2c-3636d5fbc9a0")
 		)
 		(pin "1"
-			(uuid "7048d8de-04ef-4f3e-b9a8-4f0b5b32d0c6")
+			(uuid "7048d8de-04ef-4f3e-b9a8-4f0b5b32d0c8")
 		)
 		(instances
 			(project ""
